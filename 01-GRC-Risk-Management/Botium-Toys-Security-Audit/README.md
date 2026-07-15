@@ -32,12 +32,11 @@ The audit reviewed the organization's existing controls against security best pr
 ## Assessment Approach
 
 The assessment was completed by:
-
-1. Reviewing the organization's scope, goals, and risk assessment documentation.
-2. Evaluating existing security controls using a controls and compliance checklist.
-3. Identifying areas where controls were missing or insufficient.
-4. Analyzing the potential impact of identified gaps.
-5. Developing recommendations to improve security and compliance readiness.
+- Reviewing Botium Toys' audit scope, objectives, and risk assessment documentation.
+- Evaluating existing administrative, technical, and physical security controls using the provided controls and compliance checklist.
+- Identifying control gaps and areas where security practices did not align with established compliance requirements.
+- Assessing the security risks associated with identified control gaps using the information provided in the risk assessment.
+- Developing prioritized recommendations to strengthen the organization's security posture and improve compliance readiness.
 
 ---
 
