@@ -10,7 +10,7 @@ Unlike a penetration test, this assessment does not verify whether vulnerabiliti
 
 The objective is to understand how attackers may target PayFlow and recommend security controls that reduce business risk while maintaining customer trust and the integrity of financial transactions.
 
-> **Note:** PayFlow is a fictional organization created for educational and portfolio purposes. The scenario was developed to demonstrate the application of the PASTA threat modeling framework and does not represent a real organization or actual security assessment.
+> **Note:** PayFlow is a fictional organization created for educational and portfolio purposes. This assessment was developed to demonstrate the application of the PASTA threat modeling framework and does not represent a real organization or a real-world security assessment.
 
 # Assessment Scope
 
