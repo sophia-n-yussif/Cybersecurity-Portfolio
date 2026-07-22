@@ -20,6 +20,22 @@ An investigation into repeated failed login attempts that resulted in unauthoriz
 
 An investigation into a ransomware attack affecting employee systems and shared resources. This scenario focuses on analyzing the attack timeline, identifying the attack path, determining containment actions, and developing recovery and prevention recommendations.
 
+## NIST Cybersecurity Framework Alignment
+
+This project aligns with the NIST Cybersecurity Framework (CSF) 2.0, particularly the Detect, Respond, and Recover functions.
+
+### Detect
+- Identify suspicious security events through logs, alerts, and investigation evidence.
+- Analyze indicators of compromise and abnormal activity.
+
+### Respond
+- Investigate the scope of security incidents.
+- Recommend containment actions to limit further damage.
+
+### Recover
+- Document lessons learned.
+- Recommend security improvements to reduce the likelihood of future incidents.
+  
 ## Skills Demonstrated
 
 - Incident identification and analysis
